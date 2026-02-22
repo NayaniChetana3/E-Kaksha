@@ -1,3 +1,3 @@
 # E-Kaksha
 
-https://github.com/Samiksha-Garg/E-Kaksha.git
+Project Repo: https://github.com/Samiksha-Garg/E-Kaksha.git
